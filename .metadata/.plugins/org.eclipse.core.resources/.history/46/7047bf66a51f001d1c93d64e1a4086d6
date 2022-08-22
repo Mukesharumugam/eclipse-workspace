@@ -1,0 +1,14 @@
+package com.sms.repository;
+
+public interface Astudent {
+
+	Integer getRollNo();
+
+	String getFirstName();
+
+	String getLastName();
+
+	Integer getStandard();
+
+	String getDivision();
+}
